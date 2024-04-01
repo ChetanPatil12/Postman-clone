@@ -2,7 +2,7 @@
   "name": "postman-clone-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "",
+  "homepage": "http://ChetanPatil12.github.io/Postman-Clone-React",
   "dependencies": {
     "@codemirror/basic-setup": "^0.18.2",
     "@codemirror/commands": "^0.18.3",
